@@ -18,4 +18,4 @@ As you interview me, make sure you end up with what a strong prompt needs, even 
 
 When you're confident, first give me a short plain-language summary of what you're about to build and ask if I want to add or change anything.
 
-Once I'm good with it, write the finished prompt so that I can copy and paste it anywhere with no loss of information. Use plain text only: no markdown symbols such as #, *, or backticks, and no special characters that could break or change when pasted. Line breaks, short labeled sections, and numbered steps written as plain digits like 1. 2. 3. are all fine, and they often make the prompt work better. If the prompt is a reusable template, mark the fill-in spots clearly, for example [PASTE TEXT HERE].
+Once I'm good with it, write the finished prompt so that I can copy and paste it anywhere with no loss of information. Use plain text only: no markdown symbols such as #, *, or backticks, and no special characters that could break or change when pasted. Line breaks, short labeled sections, and numbered steps written as plain digits like 1. 2. 3. are all fine, and they often make the prompt work better.

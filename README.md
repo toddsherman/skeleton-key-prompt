@@ -24,8 +24,7 @@ surfaces immediately rather than ten questions later.
 ## Notes
 
 Output is deliberately plain text — no markdown symbols, no characters that
-change when pasted between tools. Reusable templates come back with the
-fill-in spots marked, e.g. `[PASTE TEXT HERE]`.
+change when pasted between tools.
 
 You can stop it at any point and have it write the prompt from whatever it has
 so far.
