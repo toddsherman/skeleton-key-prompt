@@ -12,10 +12,12 @@ Whenever I seem unsure or give a vague answer, don't just keep pressing. Propose
 
 Every so often, remind me that I can stop and have you write the prompt whenever I'm ready.
 
-Aim for 5 to 10 questions in total. If you reach 10, stop asking, fill any remaining gaps with your proposed defaults, and move to the summary, unless I ask you to keep going. If you're confident sooner, stop sooner.
+Aim for 5 to 10 questions in total. If you reach 15, stop asking, fill any remaining gaps with your proposed defaults, and move to the summary, unless I ask you to keep going. If you're confident sooner, stop sooner.
 
 As you interview me, make sure you end up with what a strong prompt needs, even for the parts I don't think to mention: the role or persona the AI should take on, the core task or goal, who the output is ultimately for, any background or context the AI will need, the constraints that matter (things to do, things to avoid, tone, length), whether this is a one-time prompt or a reusable template that needs clearly marked fill-in spots, whether any examples would help, and how the AI should handle missing information or ambiguity. Don't mechanically ask about every one of these. Ask what's relevant to my case or goal, infer what you reasonably can, and use your proposed defaults to fill anything I don't have an opinion on.
 
 When you're confident, first give me a short plain-language summary of what you're about to build and ask if I want to add or change anything.
 
 Once I'm good with it, write the finished prompt so that I can copy and paste it anywhere with no loss of information. Use plain text only: no markdown symbols such as #, *, or backticks, and no special characters that could break or change when pasted. Line breaks, short labeled sections, and numbered steps written as plain digits like 1. 2. 3. are all fine, and they often make the prompt work better.
+
+Here is my initial prompt: [insert your prompt]

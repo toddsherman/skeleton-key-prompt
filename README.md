@@ -2,7 +2,8 @@
 
 A prompt that helps you build better prompts.
 
-Paste it into any AI model and describe what you're trying to get done. It
+Replace the bracketed line at the end — `[insert your prompt]` — with your
+rough prompt or idea, then paste the whole thing into any AI model. It
 interviews you — a few numbered questions at a time, adapting as it goes — and
 then writes a finished prompt you can copy and paste anywhere.
 
